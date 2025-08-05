@@ -73,5 +73,5 @@ Located in `/docs/`:
 This project represents the foundation of my Active Directory experience:
 
 - [✔] **On-prem AD DS** using Windows Server 2022 in VirtualBox on my iMac (this project)
-- [✔] **Azure-based AD DS** with domain join, VM deployment, and role assignments
-- [🔜] Next goal: **Hybrid AD** with Azure AD Connect, Group Sync, and MFA
+- [✔] **[Azure-based AD DS](https://github.com/gwrightiv/azure-vm-deployment)**: domain join, VM deployment, and role assignments in the cloud
+
