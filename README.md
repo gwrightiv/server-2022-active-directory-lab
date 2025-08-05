@@ -1,6 +1,6 @@
 # Windows Server 2022 On-Prem Active Directory Lab
 
-This project demonstrates a complete deployment of Active Directory Domain Services (AD DS) using **Windows Server 2022** hosted locally in **VirtualBox** on my iMac.
+This project replicates a real-world scenario where an IT admin deploys and hardens a cloud-based domain controller in Microsoft Azure. It shows my ability to manage an enterprise Windows Server environment from provisioning through automation and security, using Active Directory, PowerShell, NTFS, and firewall rules. It also highlights my cost-conscious thinking with features like auto-shutdown and scripted updates.
 
 The lab includes:
 - Promotion of a Windows Server 2022 to a Domain Controller
